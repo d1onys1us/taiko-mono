@@ -11,7 +11,9 @@
       "release-as": "0.1.0"
     },
     "packages/protocol": {},
-    "packages/relayer": {}
+    "packages/relayer": {},
+    "packages/test-app-1": {},
+    "packages/test-app-2": {}
   },
   "separate-pull-requests": true,
   "bump-minor-pre-major": true
