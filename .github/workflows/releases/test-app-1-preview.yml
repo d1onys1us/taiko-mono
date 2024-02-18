@@ -8,6 +8,13 @@ on:
       - main
     paths:
       - "packages/test-app-1/**"
+  pull_request_target:
+    branches-ignore:
+      - main
+    paths:
+      - "packages/test-app-1/**"
+  workflow_dispatch:
+
 jobs:
   Deploy-Preview:
     runs-on: ubuntu-latest
