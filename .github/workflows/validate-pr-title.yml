@@ -35,6 +35,8 @@ jobs:
             guardian-prover-health-check-ui
             protocol
             relayer
+            test-app-1
+            test-app-2
           requireScope: true
           subjectPattern: ^(?![A-Z]).+$ # Require lowercase PR title
           subjectPatternError: |
