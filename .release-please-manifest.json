@@ -7,6 +7,6 @@
   "packages/guardian-prover-health-check-ui": "0.1.0",
   "packages/protocol": "0.15.2",
   "packages/relayer": "0.12.0",
-  "packages/test-app-1": "0.1.0",
+  "packages/test-app-1": "0.1.1",
   "packages/test-app-2": "0.1.0"
 }
