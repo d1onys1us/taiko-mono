@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app hi hi hi
+		to your new<br />SvelteKit app test preview
 	</h1>
 
 	<h2>
