@@ -10,4 +10,6 @@ extend-exclude = [
     "*.yaml",
     "*.yml",
     "*.json",
+    "packages/protocol/contracts/automata-attestation/**",
+    "packages/protocol/contracts/thirdparty/**",
 ]
