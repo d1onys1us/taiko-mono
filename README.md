@@ -22,7 +22,7 @@
 
 ## Documentation
 
-> [!WARNING]
+> [!IMPORTANT]
 > Please refrain from submitting typo/comment-only pull requests with the expectation of receiving TKO airdrops.
 
 Documentation can be found on the website at [taiko.xyz](https://taiko.xyz). There is also a README in each package, as well as comments in the source code.
