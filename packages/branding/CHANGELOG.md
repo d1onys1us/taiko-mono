@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.0](https://github.com/d1onys1us/taiko-mono/compare/branding-v0.4.0...branding-v0.5.0) (2024-07-20)
+
+
+### Features
+
+* **branding:** add `taiko-icon-wht-200x200.png` to branding ([#17357](https://github.com/d1onys1us/taiko-mono/issues/17357)) ([d7fc36f](https://github.com/d1onys1us/taiko-mono/commit/d7fc36fedc851f6875f16180e479e67ad97dc043))
+* **bridge-ui:** release  ([#17071](https://github.com/d1onys1us/taiko-mono/issues/17071)) ([2fa3ae0](https://github.com/d1onys1us/taiko-mono/commit/2fa3ae0b2b2317a467709110c381878a3a9f8ec6))
+
+
+### Chores
+
+* **main:** release branding 0.4.0 ([#17125](https://github.com/d1onys1us/taiko-mono/issues/17125)) ([2666b45](https://github.com/d1onys1us/taiko-mono/commit/2666b459c6f0cf85061bec748db3973670801eaa))
+
 ## [0.4.0](https://github.com/taikoxyz/taiko-mono/compare/branding-v0.3.0...branding-v0.4.0) (2024-05-13)
 
 
