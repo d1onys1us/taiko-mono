@@ -27,7 +27,9 @@
     "packages/relayer": {},
     "packages/nfts": {},
     "packages/taikoon-ui": {},
-    "packages/taiko-client": {},
+    "packages/taiko-client": {
+      "prerelease": true
+    },
     "packages/supplementary-contracts": {},
     "packages/ui-lib": {},
     "packages/snaefell-ui": {}
