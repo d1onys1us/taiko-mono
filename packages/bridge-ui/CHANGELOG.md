@@ -1,5 +1,55 @@
 # Changelog
 
+## [2.13.0](https://github.com/d1onys1us/taiko-mono/compare/bridge-ui-v2.12.0...bridge-ui-v2.13.0) (2024-07-20)
+
+
+### Features
+
+* **bridge-ui:** configurable destOwner ([#17721](https://github.com/d1onys1us/taiko-mono/issues/17721)) ([3220a22](https://github.com/d1onys1us/taiko-mono/commit/3220a22ad11fb3bded7e1641b1de93d5a391461e))
+* **bridge-ui:** fallback gasprice for processingfee ([#17578](https://github.com/d1onys1us/taiko-mono/issues/17578)) ([c621426](https://github.com/d1onys1us/taiko-mono/commit/c621426c430bd01a3f7dbbb39058e8357601c507))
+* **bridge-ui:** improve token handling ([#17216](https://github.com/d1onys1us/taiko-mono/issues/17216)) ([3875f45](https://github.com/d1onys1us/taiko-mono/commit/3875f45eb4be720464f36c663ddf50b870fdd18e))
+* **bridge-ui:** polishing ([#17460](https://github.com/d1onys1us/taiko-mono/issues/17460)) ([a3faee0](https://github.com/d1onys1us/taiko-mono/commit/a3faee088ee5ed235f9b4020aa2afce77d0f8108))
+* **bridge-ui:** quota manager check ([#17024](https://github.com/d1onys1us/taiko-mono/issues/17024)) ([3cf6e7b](https://github.com/d1onys1us/taiko-mono/commit/3cf6e7b4bcb449c78a50cfd85d2fcdcbe451ab2e))
+* **bridge-ui:** re-add mobile details ([#17016](https://github.com/d1onys1us/taiko-mono/issues/17016)) ([30aefe1](https://github.com/d1onys1us/taiko-mono/commit/30aefe120dd03d6eca65c6cf08267cbf3004cdb9))
+* **bridge-ui:** relayer component ([#17777](https://github.com/d1onys1us/taiko-mono/issues/17777)) ([458e259](https://github.com/d1onys1us/taiko-mono/commit/458e259e3f2cbcf316d27a239fc19a7ca417ce4d))
+* **bridge-ui:** release  ([#17071](https://github.com/d1onys1us/taiko-mono/issues/17071)) ([2fa3ae0](https://github.com/d1onys1us/taiko-mono/commit/2fa3ae0b2b2317a467709110c381878a3a9f8ec6))
+* **bridge-ui:** rounding fix. ([#17409](https://github.com/d1onys1us/taiko-mono/issues/17409)) ([eac7434](https://github.com/d1onys1us/taiko-mono/commit/eac743445b9a1c21ed03aede036098ba3add261a))
+* **bridge-ui:** smart contract wallet detection ([#17231](https://github.com/d1onys1us/taiko-mono/issues/17231)) ([80ff27e](https://github.com/d1onys1us/taiko-mono/commit/80ff27ed351c02a4b450a33ff0d3bd1bdf08ce6b))
+* **bridge-ui:** update config ([#17347](https://github.com/d1onys1us/taiko-mono/issues/17347)) ([6bc2e26](https://github.com/d1onys1us/taiko-mono/commit/6bc2e2607d2a9c9fe9ae03b0f093442ce8a31643))
+* **bridge-ui:** update usdc wording, add minimum fee check ([#17419](https://github.com/d1onys1us/taiko-mono/issues/17419)) ([07211da](https://github.com/d1onys1us/taiko-mono/commit/07211da83c9f5ca782fc5d9a02680968bf81ee24))
+
+
+### Bug Fixes
+
+* **bridge-ui:** bigint conversion ([#17534](https://github.com/d1onys1us/taiko-mono/issues/17534)) ([4279ccd](https://github.com/d1onys1us/taiko-mono/commit/4279ccd59024578d51b39a6b26a0138409a42f44))
+* **bridge-ui:** fix changelog and deployment ([#17141](https://github.com/d1onys1us/taiko-mono/issues/17141)) ([809707d](https://github.com/d1onys1us/taiko-mono/commit/809707d7cebdfc0af253ab54ea2c1503ae02ab0e))
+* **bridge-ui:** fix changelog and deployment ([#17144](https://github.com/d1onys1us/taiko-mono/issues/17144)) ([24168e4](https://github.com/d1onys1us/taiko-mono/commit/24168e42f15d5e7f0afd44293110847d87b21fec))
+* **bridge-ui:** fix claiming for recipients that do not match srcOwner ([#17576](https://github.com/d1onys1us/taiko-mono/issues/17576)) ([6eaaa12](https://github.com/d1onys1us/taiko-mono/commit/6eaaa127bf12df486ce648f66d719138631e851f))
+* **bridge-ui:** fix funds message ([#17507](https://github.com/d1onys1us/taiko-mono/issues/17507)) ([55293a5](https://github.com/d1onys1us/taiko-mono/commit/55293a5208f729964279fb07056a90b08e56a4ec))
+* **bridge-ui:** fix manual claim issue ([#17518](https://github.com/d1onys1us/taiko-mono/issues/17518)) ([3f5b73d](https://github.com/d1onys1us/taiko-mono/commit/3f5b73ddf47dd1c9853d5d2d9a75e8cd95ecccbf))
+* **bridge-ui:** fix parsing relayer   ([#17551](https://github.com/d1onys1us/taiko-mono/issues/17551)) ([1b3eb90](https://github.com/d1onys1us/taiko-mono/commit/1b3eb9029ae7e6903496d774c9c115c73774c097))
+* **bridge-ui:** fix USDT approvals ([#17539](https://github.com/d1onys1us/taiko-mono/issues/17539)) ([37cb7af](https://github.com/d1onys1us/taiko-mono/commit/37cb7af834d189051c2de895b384997c4fc13b9a))
+* **bridge-ui:** handle local tx better ([#17684](https://github.com/d1onys1us/taiko-mono/issues/17684)) ([3455e11](https://github.com/d1onys1us/taiko-mono/commit/3455e11c5f82b25fcb9a35d2f781b46891493372))
+* **bridge-ui:** increase gaslimit for erc20 ([#17531](https://github.com/d1onys1us/taiko-mono/issues/17531)) ([3a7268d](https://github.com/d1onys1us/taiko-mono/commit/3a7268df33e5f778b22b7624c4baec6739083641))
+* **bridge-ui:** lock continue button when fee is calculating ([#17548](https://github.com/d1onys1us/taiko-mono/issues/17548)) ([5781b33](https://github.com/d1onys1us/taiko-mono/commit/5781b338221dbe1e8ab2a1556ffeeaa239b8d957))
+* **bridge-ui:** msg value mapping ([#17554](https://github.com/d1onys1us/taiko-mono/issues/17554)) ([e58d41a](https://github.com/d1onys1us/taiko-mono/commit/e58d41a39b7e132fe094d04bb453929155f4ba4b))
+* **bridge-ui:** quota check  ([#17200](https://github.com/d1onys1us/taiko-mono/issues/17200)) ([b883d34](https://github.com/d1onys1us/taiko-mono/commit/b883d34b791287d0caa58522f50917dc47f40c0e))
+* **bridge-ui:** recallMessage fix ([#17547](https://github.com/d1onys1us/taiko-mono/issues/17547)) ([11755d1](https://github.com/d1onys1us/taiko-mono/commit/11755d164a532980214e69219d328fa66a06f6cc))
+* **bridge-ui:** small fixes ([#17375](https://github.com/d1onys1us/taiko-mono/issues/17375)) ([5236d0a](https://github.com/d1onys1us/taiko-mono/commit/5236d0a50a82e3915eb955962ccc930110d6274e))
+
+
+### Chores
+
+* **bridge-ui:** add DAI ([#17714](https://github.com/d1onys1us/taiko-mono/issues/17714)) ([3439579](https://github.com/d1onys1us/taiko-mono/commit/3439579356c8f8bfbcc77b68c1d08cb142ab4196))
+* **bridge-ui:** add symbiosis ([#17505](https://github.com/d1onys1us/taiko-mono/issues/17505)) ([9e504d2](https://github.com/d1onys1us/taiko-mono/commit/9e504d27976d25da89a48e7a4453f6e36f8055f3))
+* **bridge-ui:** update stablecoin warning and campaign info ([#17716](https://github.com/d1onys1us/taiko-mono/issues/17716)) ([c370c7e](https://github.com/d1onys1us/taiko-mono/commit/c370c7e0976bbe1160b074be665d751410367d16))
+* **main:** release bridge-ui 2.10.0 ([#17139](https://github.com/d1onys1us/taiko-mono/issues/17139)) ([7e3bb92](https://github.com/d1onys1us/taiko-mono/commit/7e3bb924a533ba301ce176c1dd3cc8e446c13d27))
+* **main:** release bridge-ui 2.10.1 ([#17142](https://github.com/d1onys1us/taiko-mono/issues/17142)) ([6c39894](https://github.com/d1onys1us/taiko-mono/commit/6c398948327b30333e521c3ae51a6b1aaac77098))
+* **main:** release bridge-ui 2.10.1 ([#17145](https://github.com/d1onys1us/taiko-mono/issues/17145)) ([3d33b3f](https://github.com/d1onys1us/taiko-mono/commit/3d33b3f94dd0b6f733c02f33a13f2c3af94f968e))
+* **main:** release bridge-ui 2.11.0 ([#17203](https://github.com/d1onys1us/taiko-mono/issues/17203)) ([d05ccf6](https://github.com/d1onys1us/taiko-mono/commit/d05ccf6ddc5402114cb7487f0821558f7d37b7c3))
+* **main:** release bridge-ui 2.12.0 ([#17386](https://github.com/d1onys1us/taiko-mono/issues/17386)) ([bc086f1](https://github.com/d1onys1us/taiko-mono/commit/bc086f16bfdf5119dfb069f3f9c89507ed503b3b))
+* **repo:** fix release versions ([#17137](https://github.com/d1onys1us/taiko-mono/issues/17137)) ([0b01c41](https://github.com/d1onys1us/taiko-mono/commit/0b01c41c361eb7c32c0148fe99c49ebdf26f5f6c))
+
 ## [2.12.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2.11.0...bridge-ui-v2.12.0) (2024-07-18)
 
 
