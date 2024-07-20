@@ -1,5 +1,49 @@
 # Changelog
 
+## [1.3.0](https://github.com/d1onys1us/taiko-mono/compare/taikoon-ui-v1.2.0...taikoon-ui-v1.3.0) (2024-07-20)
+
+
+### Features
+
+* **bridge-ui:** release  ([#17071](https://github.com/d1onys1us/taiko-mono/issues/17071)) ([2fa3ae0](https://github.com/d1onys1us/taiko-mono/commit/2fa3ae0b2b2317a467709110c381878a3a9f8ec6))
+* **nfts:** adapt taikoon-ui to the new package structure ([#17271](https://github.com/d1onys1us/taiko-mono/issues/17271)) ([6b7f44a](https://github.com/d1onys1us/taiko-mono/commit/6b7f44a2e2e6dc9ee63a565c95ba5023e66940c6))
+* **nfts:** taikoon ui fixes, v3 ([#17218](https://github.com/d1onys1us/taiko-mono/issues/17218)) ([e0f064a](https://github.com/d1onys1us/taiko-mono/commit/e0f064aa7e288c17d23906127e6a77da5f81feda))
+* **nfts:** taikoon-ui adaptation for TaikoonTokenV2 ([#17593](https://github.com/d1onys1us/taiko-mono/issues/17593)) ([af33b3b](https://github.com/d1onys1us/taiko-mono/commit/af33b3bce7a0e940a1857f56d6e012331f147cce))
+* **nfts:** taikoon-ui performance upgrades ([#17720](https://github.com/d1onys1us/taiko-mono/issues/17720)) ([936bb95](https://github.com/d1onys1us/taiko-mono/commit/936bb95057815e5473d36304058a34be8c81ff76))
+* **nfts:** taikoon-ui pre-mint legal disclaimer ([#17482](https://github.com/d1onys1us/taiko-mono/issues/17482)) ([9fae4d0](https://github.com/d1onys1us/taiko-mono/commit/9fae4d04d8282424b8f74933381f0ef7c9a30255))
+* **nfts:** taikoon-ui updated list of blocked countries ([#17403](https://github.com/d1onys1us/taiko-mono/issues/17403)) ([78153ce](https://github.com/d1onys1us/taiko-mono/commit/78153ced57ddfb331e9ed3186bbf8edc675e8251))
+* **nfts:** taikoon-ui updated whitelist ([#17719](https://github.com/d1onys1us/taiko-mono/issues/17719)) ([4e5bdbb](https://github.com/d1onys1us/taiko-mono/commit/4e5bdbbe497c56a52a150dcc15213e8effb7a0d8))
+* **nfts:** taikoon-ui updated whitelist 28-06-2024 ([#17701](https://github.com/d1onys1us/taiko-mono/issues/17701)) ([3687b1e](https://github.com/d1onys1us/taiko-mono/commit/3687b1eb81f6032713e3ca18824778e9193c1314))
+* **nfts:** ui-lib integration into taikoon-ui ([#17220](https://github.com/d1onys1us/taiko-mono/issues/17220)) ([849a3c4](https://github.com/d1onys1us/taiko-mono/commit/849a3c446936285c621176e332d1136c1f4ddb6b))
+* **taikoon:** devnet deployment ([#16937](https://github.com/d1onys1us/taiko-mono/issues/16937)) ([387ffb1](https://github.com/d1onys1us/taiko-mono/commit/387ffb1d18423f9e52dd9f668ddfaef748f7c97f))
+* **taikoon:** geoblocking ([#17201](https://github.com/d1onys1us/taiko-mono/issues/17201)) ([6658f6a](https://github.com/d1onys1us/taiko-mono/commit/6658f6ae553c3c02560a9fa622f1dd3f938c119d))
+* **taikoon:** ipfs integration with 4everland ([#17119](https://github.com/d1onys1us/taiko-mono/issues/17119)) ([46670cf](https://github.com/d1onys1us/taiko-mono/commit/46670cfb8f087c87c42799d7ded3a0dc1258a963))
+* **taikoon:** ui qa checklist ([#16870](https://github.com/d1onys1us/taiko-mono/issues/16870)) ([e965597](https://github.com/d1onys1us/taiko-mono/commit/e96559762d844b042bbf23de878883d3b647671a))
+* **taikoon:** ui qa checklist ([#17175](https://github.com/d1onys1us/taiko-mono/issues/17175)) ([924adf3](https://github.com/d1onys1us/taiko-mono/commit/924adf3df2db4d4bee9a2af912705aea5dbc3659))
+
+
+### Bug Fixes
+
+* **nfts:** taikoon ui taiko-mainnet deployment ([#17405](https://github.com/d1onys1us/taiko-mono/issues/17405)) ([db40dbd](https://github.com/d1onys1us/taiko-mono/commit/db40dbdf5207dbcaad630d010728a621a644898d))
+* **nfts:** taikoon-ui bug fixing ([#17644](https://github.com/d1onys1us/taiko-mono/issues/17644)) ([2c90a7f](https://github.com/d1onys1us/taiko-mono/commit/2c90a7fee984c8c1e3389076a3ed933de4e67215))
+* **nfts:** taikoon-ui design r4 ([#17423](https://github.com/d1onys1us/taiko-mono/issues/17423)) ([4cf0739](https://github.com/d1onys1us/taiko-mono/commit/4cf073997fd9d68bdf525a279a89fcbb2008ca0a))
+* **nfts:** taikoon-ui error reporting improved ([#17683](https://github.com/d1onys1us/taiko-mono/issues/17683)) ([116d3f4](https://github.com/d1onys1us/taiko-mono/commit/116d3f4886dea01333b829677ec9b6d4492479c6))
+* **nfts:** taikoon-ui mobile visual fixes ([#17490](https://github.com/d1onys1us/taiko-mono/issues/17490)) ([fbfcc7f](https://github.com/d1onys1us/taiko-mono/commit/fbfcc7f3810d0122f46673944c39e5f4d759d4e0))
+* **nfts:** taikoon-ui whitelist update ([#17491](https://github.com/d1onys1us/taiko-mono/issues/17491)) ([403c18f](https://github.com/d1onys1us/taiko-mono/commit/403c18f7f77a94ef8675eacea7b512ea5a2ddfce))
+
+
+### Chores
+
+* **main:** release taikoon-ui 1.0.0 ([#17168](https://github.com/d1onys1us/taiko-mono/issues/17168)) ([4e02ce3](https://github.com/d1onys1us/taiko-mono/commit/4e02ce3d799170384b918232c20cca2e0ea7a32e))
+* **main:** release taikoon-ui 1.1.0 ([#17212](https://github.com/d1onys1us/taiko-mono/issues/17212)) ([720fad5](https://github.com/d1onys1us/taiko-mono/commit/720fad573075bc9d9e07f3444e940a2f66d725eb))
+* **main:** release taikoon-ui 1.1.1 ([#17612](https://github.com/d1onys1us/taiko-mono/issues/17612)) ([48ad856](https://github.com/d1onys1us/taiko-mono/commit/48ad8563d3922054030c63eb87cb30691cd67f05))
+* **main:** release taikoon-ui 1.2.0 ([#17648](https://github.com/d1onys1us/taiko-mono/issues/17648)) ([b7c93f8](https://github.com/d1onys1us/taiko-mono/commit/b7c93f832dd766871ce76ce758599595147790d3))
+
+
+### Reverted Commits
+
+* **repo:** ui qa checklist ([#17174](https://github.com/d1onys1us/taiko-mono/issues/17174)) ([43cb9a2](https://github.com/d1onys1us/taiko-mono/commit/43cb9a2f82ae808fde282154cded508b52dd76b3))
+
 ## [1.2.0](https://github.com/taikoxyz/taiko-mono/compare/taikoon-ui-v1.1.1...taikoon-ui-v1.2.0) (2024-07-04)
 
 
